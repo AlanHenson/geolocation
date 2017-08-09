@@ -37,9 +37,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1502319731074,
-            "changeTime": 1502319731074,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
+            "modifiedTime": 1502319100165,
+            "changeTime": 1502319100165,
+            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732"
         }
     ],
     [
@@ -48,12 +48,13 @@
             "sourcePath": "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1502319364090,
-            "changeTime": 1502319364090,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "modifiedTime": 1502314118112,
+            "changeTime": 1502314118112,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -62,12 +63,13 @@
             "sourcePath": "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1502318647673,
-            "changeTime": 1502318647673,
-            "contentHash": "5be51c44b5c65c193297a8b341be35f1f8c271c1",
+            "modifiedTime": 1502314363504,
+            "changeTime": 1502314363504,
+            "contentHash": "eef8e0288540e5ff6a0806fc838111d9b78f2a4f",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true
+            "isWorkspace": true,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -814,222 +816,40 @@
     [
         "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\classes",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\classes",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1502319100187,
             "changeTime": 1502319100187,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
         }
     ],
     [
         "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 292,
             "modifiedTime": 1502319207262,
             "changeTime": 1502319207262,
-            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7"
         }
     ],
     [
         "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1502319100187,
             "changeTime": 1502319100187,
-            "contentHash": "d388a388b0a95b0227831a265ba9b57f8672d004",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
-        {
-            "sourcePath": "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1502319364192,
-            "changeTime": 1502319364192,
-            "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
-        {
-            "sourcePath": "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
-            "isDirectory": false,
-            "size": 155,
-            "modifiedTime": 1502319396233,
-            "changeTime": 1502319396233,
-            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
-        {
-            "sourcePath": "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
-            "isDirectory": false,
-            "size": 246,
-            "modifiedTime": 1502319364092,
-            "changeTime": 1502319364092,
-            "contentHash": "93ad29ee05362ba61f7a3bbeabf9346e600169ce",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
-        {
-            "sourcePath": "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
-            "isDirectory": false,
-            "size": 91,
-            "modifiedTime": 1502319419171,
-            "changeTime": 1502319419171,
-            "contentHash": "14baa28d7d740e80c11f4d90a3c1393c1c758ca5",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
-        {
-            "sourcePath": "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
-            "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1502319364183,
-            "changeTime": 1502319364183,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
-        {
-            "sourcePath": "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
-            "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1502319364186,
-            "changeTime": 1502319364186,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
-        {
-            "sourcePath": "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
-            "isDirectory": false,
-            "size": 50,
-            "modifiedTime": 1502319364193,
-            "changeTime": 1502319364193,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 267,
-            "modifiedTime": 1502319731074,
-            "changeTime": 1502319731074,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
-        }
-    ],
-    [
-        "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 18119,
-            "modifiedTime": 1502319731075,
-            "changeTime": 1502319731075,
-            "contentHash": "9c48d668752c980ff4e175ae31b1228407268664"
-        }
-    ],
-    [
-        "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 6001,
-            "modifiedTime": 1502319731076,
-            "changeTime": 1502319731076,
-            "contentHash": "a3e0259648daa926b32408e4c45905577e5c1b56"
-        }
-    ],
-    [
-        "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 5665,
-            "modifiedTime": 1502319731077,
-            "changeTime": 1502319731077,
-            "contentHash": "28aa78f5da9c28a170da9bd200341268ca40700c"
-        }
-    ],
-    [
-        "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 5661,
-            "modifiedTime": 1502319731078,
-            "changeTime": 1502319731078,
-            "contentHash": "fad07bdcd9f7fdcc4a0fca93d7b75dca7b32f689"
-        }
-    ],
-    [
-        "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\tabs",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\tabs",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1502319731074,
-            "changeTime": 1502319731074,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
-        }
-    ],
-    [
-        "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\profiles",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\adven\\Documents\\development\\sfdx-trailhead\\geolocation\\force-app\\main\\default\\profiles",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1502319731078,
-            "changeTime": 1502319731078,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "d388a388b0a95b0227831a265ba9b57f8672d004"
         }
     ]
 ]
