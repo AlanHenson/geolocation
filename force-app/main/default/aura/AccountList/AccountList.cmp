@@ -6,4 +6,5 @@
     <c:AccountListItem account="{!account}"/>
     </aura:iteration>
     </ul>
+    <aura:registerEvent name="accountsLoaded" type="c:AccountsLoaded"/>
 </aura:component>
